@@ -52,8 +52,7 @@ This project implements an end-to-end machine learning pipeline for flood predic
 ## Troubleshooting
 
 - If you get an error about missing dependencies, run `pip install -r requirements.txt` again.
-- If you get an error about missing data, run `jupyter notebook notebooks/01_eda.ipynb` to download the data.
-- If you get an error about missing data, run `jupyter notebook notebooks/02_preprocessing_modeling.ipynb` to download the data.
+
 - If you get an error about missing jupyter command 
 ```bash
     source venv/bin/activate  
